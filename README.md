@@ -20,7 +20,7 @@
 <img aling="center" alt="WireShark" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </div>
 
-## Juliano@Juliano-Laranjeira: ~$ sudo Whoami
+## Juliano@Juliano-Laranjeira: ~$ sudo whoami
 I'm a technology student, so I don't have much to say. I just like to study anything that works with electricity, especially things that attract my curiosity. I'm 18 years old and I hope I can fit into this area. 
 
 This is my GitHub, if you want to get in touch with me, just go to one of my social networks. Keep studying!
