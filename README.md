@@ -85,7 +85,7 @@ Tech Stack<br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark"/>
 </p>
-<p align="center">Looking forward to connecting again soon!</p>
+<p align="center"><strong>Thanks for stopping by! Let's connect again soon</strong></p>
 
 
 
