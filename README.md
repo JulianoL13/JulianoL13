@@ -38,11 +38,14 @@
      <img src="https://img.shields.io/badge/Instagram-131842?style=for-the-badge&logo=instagram&logoColor=red" target="_blank" />
   </a>
 </div>
-<br/>
-<br/>
-
 
 ---
+
+<br/>
+
+
+
+
 
 
 <h1 align="center">My Stats</h1>
@@ -51,20 +54,18 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=JulianoL13&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@JulianoL13 github-readme-streak-stats">
 </p>
 <br/>
-<br/>
 
 
----
+
 
 <h1 align="center">My Contributions</h1>
 <p align="center">
   <img src ="https://raw.githubusercontent.com/JulianoL13/JulianoL13/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
 </p>
 <br/>
-<br/>
 
 
----
+
 
 <h1 align="center"> 
 Tech Stack<br>
@@ -75,11 +76,8 @@ Tech Stack<br>
   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ts,prisma,postgres,express,java,spring,linux"/>
 </p>
 <br/>
-<br/>
 
 
----
-<br/>
 <h1 align="center">So...</h1>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark"/>
