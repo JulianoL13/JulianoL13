@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://github.com/JulianoL13/JulianoL13/blob/main/GIF%20from%20GIFER.gif?raw=true" width="150" height="200" alt="Description of the image">
+        <img src="https://github.com/JulianoL13/JulianoL13/blob/main/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="200" alt="Description of the image">
     </a>
 </p>
 <p align="center">
