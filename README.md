@@ -1,25 +1,91 @@
-# Juliano Laranjeira | Student
-![giphy (2)](https://github.com/JulianoL13/JulianoL13/assets/125844980/05eabaeb-f0a3-4548-9b17-b7dbe72f7e2e)
+<p align="center">
+        <img src="https://github.com/JulianoL13/JulianoL13/blob/main/GIF%20from%20GIFER.gif?raw=true" width="150" height="200" alt="Description of the image">
+    </a>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=20C20E&center=true&vCenter=true&random=true&width=435&lines=Programmer;DevOps+practitioner;Aways+learning+something;Fullstack;IT+student" alt="Typing SVG" />
+</p>
+<br/>
 
+---
 
-### Some social networks
+<img align ="right" alt="coding" width = "500" src="https://github.com/JulianoL13/JulianoL13/blob/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6950mi)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JulianoLaranjeira)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-laranjeira-a11b43301/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JulianoL13&color=brightgreen" alt="JulianoL13"/></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoL13&langs_count=7)
+- 🔭 I’m Student on [Wyden Facimp](https://www.wyden.com.br/unidades/facimp)
 
-## Technologies I'm studying
-<div style="display: inline_block"><br/>
-<img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img aling="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img aling="center" alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img aling="center" alt="WireShark" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+- 🌱 I’m currently learning **Web Development & DevOps**
+
+- 👨‍💻 I’m working on personal projects to build my coding skills
+
+- 💼 I’m open to collaborating on open-source projects and learning from others
+
+- ⚡ Fun fact **I use arch btw**
+<br/>
+
+<h2 align="center">Let's Connect</h2>
+<br/>
+
+<div align="center"> 
+  <a href="https://t.me/JulianoLaranjeira">
+    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" />
+  </a>
+  <a href="https://www.linkedin.com/in/juliano-laranjeira-a11b43301/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-26355D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/laranjeirajulianoo/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-131842?style=for-the-badge&logo=instagram&logoColor=red" target="_blank" />
+  </a>
 </div>
+<br/>
+<br/>
 
-## Juliano@Juliano-Laranjeira: ~$ sudo whoami
-I'm a technology student, so I don't have much to say. I just like to study anything that works with electricity, especially things that attract my curiosity. I'm 18 years old and I hope I can fit into this area. 
 
-This is my GitHub, if you want to get in touch with me, just go to one of my social networks. Keep studying!
+---
+
+
+<h1 align="center">My Stats</h1>
+<p align="center">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=JulianoL13&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@JulianoL13's github-readme-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JulianoL13&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@JulianoL13 github-readme-streak-stats">
+</p>
+<br/>
+<br/>
+
+
+---
+
+<h1 align="center">My Contributions</h1>
+<p align="center">
+  <img src ="https://raw.githubusercontent.com/JulianoL13/JulianoL13/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+</p>
+<br/>
+<br/>
+
+
+---
+
+<h1 align="center"> 
+Tech Stack<br>
+</h1>
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ts,prisma,postgres,express,java,spring,linux,"/>
+</p>
+<br/>
+<br/>
+
+
+---
+
+<h1 align="center">Thank you!</h1>
+<br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark"/>
+</p>
+<p align="center">Looking forward to connecting again soon!</p>
+
+
+
