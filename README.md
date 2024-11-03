@@ -72,19 +72,18 @@ Tech Stack<br>
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ts,prisma,postgres,express,java,spring,linux,"/>
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ts,prisma,postgres,express,java,spring,linux"/>
 </p>
 <br/>
 <br/>
 
 
 ---
-
-<h1 align="center">Thank you!</h1>
 <br/>
-<p align="center">
+<h1 align="center">So...</h1>
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark"/>
-</p>
+</div>
 <p align="center"><strong>Thanks for stopping by! Let's connect again soon</strong></p>
 
 
