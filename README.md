@@ -73,7 +73,7 @@ Tech Stack<br>
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ts,prisma,postgres,express,java,spring,linux"/>
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ts,nodejs,prisma,postgres,express,java,spring,linux"/>
 </p>
 <br/>
 
