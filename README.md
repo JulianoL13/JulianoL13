@@ -54,7 +54,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30" /> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30" /> Tech Stack
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="30" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianoL13&theme=tokyonight" alt="GitHub Profile Details"/>
@@ -126,6 +126,16 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> Vibing Right Now
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=5f0aj439aarzp0yk4uhpnvo4r&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=5f0aj439aarzp0yk4uhpnvo4r&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=9b1379&bar_color_cover=false">
+  </a>
+</p>
 
 ---
 
