@@ -102,7 +102,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.onrender.com/?user=JulianoL13&theme=tokyonight&hide_border=true" alt="JulianoL13" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=JulianoL13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
 </div>
 
 <div align="center">
