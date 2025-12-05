@@ -102,7 +102,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoL13&theme=tokyonight&hide_border=true" alt="JulianoL13" />
+  <img src="https://streak-stats.demolab.com/?user=JulianoL13&theme=tokyonight&hide_border=true" alt="JulianoL13" />
 </div>
 
 <div align="center">
